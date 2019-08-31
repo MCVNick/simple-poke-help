@@ -2,6 +2,8 @@
   "name": "simple-poke-help",
   "version": "0.1.0",
   "private": true,
+  "proxy": "http://localhost:4005",
+  "homepage": "https://poke.mcvgaming.com",
   "dependencies": {
     "express": "^4.17.1",
     "express-static-gzip": "^2.0.5",
