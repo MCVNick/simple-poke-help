@@ -5,7 +5,7 @@
   "proxy": "http://localhost:4005",
   "homepage": "https://poke.mcvgaming.com",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-static-gzip": "^2.0.5",
     "lodash": "^4.17.15",
     "react": "^16.9.0",
